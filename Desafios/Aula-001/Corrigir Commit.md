@@ -1,1 +1,1 @@
-bla bla bla bla bla
+git commit --amend -m "Commit Corrigido"
